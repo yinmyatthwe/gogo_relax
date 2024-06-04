@@ -1,0 +1,20 @@
+C:\Users\Ma Yin Myat Thwe\gogo_travel\GoGoRelax\bin\Debug\GoGoRelax.exe.config
+C:\Users\Ma Yin Myat Thwe\gogo_travel\GoGoRelax\bin\Debug\GoGoRelax.exe
+C:\Users\Ma Yin Myat Thwe\gogo_travel\GoGoRelax\bin\Debug\GoGoRelax.pdb
+C:\Users\Ma Yin Myat Thwe\gogo_travel\GoGoRelax\obj\Debug\GoGoRelax.csproj.AssemblyReference.cache
+C:\Users\Ma Yin Myat Thwe\gogo_travel\GoGoRelax\obj\Debug\GoGoRelax.Properties.Resources.resources
+C:\Users\Ma Yin Myat Thwe\gogo_travel\GoGoRelax\obj\Debug\GoGoRelax.csproj.GenerateResource.cache
+C:\Users\Ma Yin Myat Thwe\gogo_travel\GoGoRelax\obj\Debug\GoGoRelax.csproj.CoreCompileInputs.cache
+C:\Users\Ma Yin Myat Thwe\gogo_travel\GoGoRelax\obj\Debug\GoGoRelax.exe
+C:\Users\Ma Yin Myat Thwe\gogo_travel\GoGoRelax\obj\Debug\GoGoRelax.pdb
+C:\Users\nusur\gogo_relax\GoGoRelax\bin\Debug\GoGoRelax.exe.config
+C:\Users\nusur\gogo_relax\GoGoRelax\bin\Debug\GoGoRelax.exe
+C:\Users\nusur\gogo_relax\GoGoRelax\bin\Debug\GoGoRelax.pdb
+C:\Users\nusur\gogo_relax\GoGoRelax\obj\Debug\GoGoRelax.csproj.AssemblyReference.cache
+C:\Users\nusur\gogo_relax\GoGoRelax\obj\Debug\GoGoRelax.csproj.SuggestedBindingRedirects.cache
+C:\Users\nusur\gogo_relax\GoGoRelax\obj\Debug\GoGoRelax.Form1.resources
+C:\Users\nusur\gogo_relax\GoGoRelax\obj\Debug\GoGoRelax.Properties.Resources.resources
+C:\Users\nusur\gogo_relax\GoGoRelax\obj\Debug\GoGoRelax.csproj.GenerateResource.cache
+C:\Users\nusur\gogo_relax\GoGoRelax\obj\Debug\GoGoRelax.csproj.CoreCompileInputs.cache
+C:\Users\nusur\gogo_relax\GoGoRelax\obj\Debug\GoGoRelax.exe
+C:\Users\nusur\gogo_relax\GoGoRelax\obj\Debug\GoGoRelax.pdb
